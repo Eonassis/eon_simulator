@@ -35,6 +35,8 @@ install via PIP offline install, or easyinstall
 
 pip 20.3.4 from python 2.7
 
+in requires.zip They are packages requires
+
 ## Commands Verify requires
 
 import sys

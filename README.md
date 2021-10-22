@@ -18,6 +18,24 @@ These instructions will guide you to run this simulator.
 
 It requires: python 2.7, networkx 1.10, numpy
 
+#########################
+python 2.7
+networkx==1.10
+numpy
+simpy==2.2
+########################
+
+pip d'ont run in python 2.7, deprecated in jan/21
+
+## Commands Verify requires
+
+import sys
+sys.version
+import networkx
+print networkx.__version__
+import SimPy
+print SimPy.__version__
+
 ### Run the simulator
 
 python run.py

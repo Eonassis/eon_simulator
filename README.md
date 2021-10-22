@@ -27,7 +27,13 @@ simpy==2.2
 
 #######
 
-pip d'ont run in python 2.7, deprecated in jan/21
+PIP install d'ont run in python 2.7, deprecated in jan/21
+
+download exactaly versions and install manually
+
+install via PIP offline install, or easyinstall 
+
+pip 20.3.4 from python 2.7
 
 ## Commands Verify requires
 

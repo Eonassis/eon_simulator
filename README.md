@@ -42,11 +42,18 @@ in requires.zip They are packages requires
 ## Commands Verify requires
 
 import sys
+
 sys.version
+
 import networkx
+
 print networkx.__version__
+
 import SimPy
+
 print SimPy.__version__
+
+
 
 ### Run the simulator
 

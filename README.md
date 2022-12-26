@@ -23,7 +23,7 @@ It requires: python 2.7, networkx 1.10, numpy,
 
 python 2.7
 networkx==1.10
-numpy
+numpy == 1.15.0 C27
 simpy==2.2
 decorator-3.4.0
 

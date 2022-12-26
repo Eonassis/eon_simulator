@@ -47,7 +47,7 @@ sys.version
 
 import networkx
 
-print networkx.__version__
+print networkx.\_\_version\_\_
 
 import SimPy
 

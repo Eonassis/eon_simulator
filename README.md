@@ -51,7 +51,7 @@ print networkx.\_\_version\_\_
 
 import SimPy
 
-print SimPy.__version__
+print SimPy.\_\_version\_\_
 
 
 
